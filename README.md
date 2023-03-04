@@ -1,1 +1,1 @@
-# Curated-Coding-Problems
+# Curated-DataStructures-Algorithm-Problems
